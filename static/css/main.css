@@ -1,0 +1,16 @@
+html{ background-color: #ffddd2
+}
+body{
+  font-family:sans-serif;
+  background-color: white
+}
+h1{
+  margin-bottom: auto;
+}
+h2{
+  color: brown;
+  font-size: 30px;
+}
+p{
+  font-family: monospace;
+}
